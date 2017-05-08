@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Final_Poject_Contact_Book_1_0.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ContactManagementApp.cpp
+c:\users\admin\desktop\vitaliy\progect c++\final_poject_contact_book_2_1_vectors\final_poject_contact_book_1_0\contactmanagementapp.cpp(359): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\vitaliy\progect c++\final_poject_contact_book_2_1_vectors\final_poject_contact_book_1_0\contactmanagementapp.cpp(832): warning C4018: '>=': signed/unsigned mismatch
+c:\users\admin\desktop\vitaliy\progect c++\final_poject_contact_book_2_1_vectors\final_poject_contact_book_1_0\contactmanagementapp.cpp(936): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\vitaliy\progect c++\final_poject_contact_book_2_1_vectors\final_poject_contact_book_1_0\contactmanagementapp.cpp(937): warning C4018: '>': signed/unsigned mismatch
+c:\users\admin\desktop\vitaliy\progect c++\final_poject_contact_book_2_1_vectors\final_poject_contact_book_1_0\contactmanagementapp.cpp(1012): warning C4018: '<': signed/unsigned mismatch
+  Final_Poject_Contact_Book_1_0.vcxproj -> C:\Users\Admin\Desktop\Vitaliy\Progect C++\Final_Poject_Contact_Book_2_1_vectors\Debug\Final_Poject_Contact_Book_2_0.exe
+  Final_Poject_Contact_Book_1_0.vcxproj -> C:\Users\Admin\Desktop\Vitaliy\Progect C++\Final_Poject_Contact_Book_2_1_vectors\Debug\Final_Poject_Contact_Book_2_0.pdb (Partial PDB)
